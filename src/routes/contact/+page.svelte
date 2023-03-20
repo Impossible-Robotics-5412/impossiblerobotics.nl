@@ -1,5 +1,20 @@
 <script lang="ts">
 </script>
 
-<!-- FIXME: Create page. -->
-<h3>This page is under construction!</h3>
+<h2>Contact</h2>
+
+<!-- FIXME: Update contact information -->
+<!-- FIXME: Design page -->
+<div>
+	<span>
+		<b>Phone</b>
+		+31 64206969
+	</span>
+</div>
+
+<div>
+	<span>
+		<b>E-Mail</b>
+		info@impossiblerobotics.nl
+	</span>
+</div>

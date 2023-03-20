@@ -1,0 +1,5 @@
+import{S as k,i as H,s as j,k as i,q as d,a as V,l,m as o,r as m,h as a,c as $,b,E as e,B as y}from"../../../chunks/index-d47ab9fa.js";function w(A){let s,u,h,r,f,_,x,P,E,c,p,v,S,B;return{c(){s=i("h2"),u=d("Contact"),h=V(),r=i("div"),f=i("span"),_=i("b"),x=d("Phone"),P=d(`
+		+31 64206969`),E=V(),c=i("div"),p=i("span"),v=i("b"),S=d("E-Mail"),B=d(`
+		info@impossiblerobotics.nl`)},l(t){s=l(t,"H2",{});var n=o(s);u=m(n,"Contact"),n.forEach(a),h=$(t),r=l(t,"DIV",{});var D=o(r);f=l(D,"SPAN",{});var C=o(f);_=l(C,"B",{});var I=o(_);x=m(I,"Phone"),I.forEach(a),P=m(C,`
+		+31 64206969`),C.forEach(a),D.forEach(a),E=$(t),c=l(t,"DIV",{});var M=o(c);p=l(M,"SPAN",{});var q=o(p);v=l(q,"B",{});var N=o(v);S=m(N,"E-Mail"),N.forEach(a),B=m(q,`
+		info@impossiblerobotics.nl`),q.forEach(a),M.forEach(a)},m(t,n){b(t,s,n),e(s,u),b(t,h,n),b(t,r,n),e(r,f),e(f,_),e(_,x),e(f,P),b(t,E,n),b(t,c,n),e(c,p),e(p,v),e(v,S),e(p,B)},p:y,i:y,o:y,d(t){t&&a(s),t&&a(h),t&&a(r),t&&a(E),t&&a(c)}}}function z(A){return[]}class G extends k{constructor(s){super(),H(this,s,z,w,j,{})}}export{G as default};
