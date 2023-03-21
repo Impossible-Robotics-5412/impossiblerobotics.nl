@@ -24,7 +24,7 @@
 <p>
 	<Link openInNewTab href="https://www.firstinspires.org/robotics/frc">FIRST</Link>
 	is an American organisation that took upon itself the task to promote technology worldwide. To achieve
-	this goal, First, among other things, organises multiple competitions, including the FIRST Robotics
+	this goal, FIRST, among other things, organises multiple competitions, including the FIRST Robotics
 	Competition.
 </p>
 
