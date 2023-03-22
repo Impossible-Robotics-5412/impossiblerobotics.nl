@@ -6,7 +6,9 @@
 
 <h2>Visit</h2>
 
-<img src="{base}/pages/visit/workshop.jpeg" alt="Our workshop" />
+<div class="map">
+	<SluisfabriekMap />
+</div>
 
 <p>
 	Before late 2021 we used to build our robots in garages, kitchens, boats; you name it, nothing was
@@ -16,27 +18,25 @@
 	<i>Tussendiepen 6, 9206AD Drachten</i>.
 </p>
 
-<div class="map">
-	<SluisfabriekMap />
-</div>
+<img src="{base}/pages/visit/workshop.jpeg" alt="Our workshop" />
 
 <style>
 	img {
-		margin-bottom: 1rem;
 		width: 100%;
 	}
 
 	.map {
 		width: 100%;
 		height: 20rem;
-
-		margin-top: 1rem;
-
 		border: 1px solid var(--c-accent);
 		border-radius: 6px;
 
 		display: flex;
 		justify-content: center;
 		align-items: center;
+	}
+
+	p {
+		margin: 1rem 0;
 	}
 </style>
