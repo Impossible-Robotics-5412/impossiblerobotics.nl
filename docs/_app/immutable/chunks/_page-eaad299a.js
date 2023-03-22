@@ -1,0 +1,1 @@
+const o=async({fetch:s})=>({sponsors:await(await s("/pages/sponsors/sponsors.json")).json()}),r=Object.freeze(Object.defineProperty({__proto__:null,load:o},Symbol.toStringTag,{value:"Module"}));export{r as _,o as l};

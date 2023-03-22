@@ -1,0 +1,109 @@
+[
+	{
+		"name": "Victron Energy",
+		"image": "/pages/sponsors/logos/victron_energy.svg",
+		"url": "https://www.victronenergy.nl/",
+		"isMain": true
+	},
+	{
+		"name": "H-Tronics",
+		"image": "/pages/sponsors/logos/h_tronics.png",
+		"isMain": false
+	},
+	{
+		"name": "NHL Stenden Hogeschool",
+		"image": "/pages/sponsors/logos/nhl.png",
+		"url": "https://www.nhlstenden.com/",
+		"isMain": false
+	},
+	{
+		"name": "Hanzehogeschool",
+		"image": "/pages/sponsors/logos/hanze.png",
+		"url": "https://www.hanze.nl/eng",
+		"isMain": false
+	},
+	{
+		"name": "Dutch Content Productions",
+		"image": "/pages/sponsors/logos/dutch_content_productions.png",
+		"url": "https://dcp-tv.nl/",
+		"isMain": false
+	},
+	{
+		"name": "JB Besturingstechniek",
+		"image": "/pages/sponsors/logos/jb_besturingstechniek.png",
+		"url": "https://www.jbbesturingstechniek.nl",
+		"isMain": false
+	},
+	{
+		"name": "Cadmatic",
+		"image": "/pages/sponsors/logos/cadmatic.png",
+		"url": "https://www.cadmatic.com",
+		"isMain": false
+	},
+	{
+		"name": "Kisuma Chemicals",
+		"image": "/pages/sponsors/logos/kitsuma.png",
+		"url": "https://www.kisuma.com",
+		"isMain": false
+	},
+	{
+		"name": "Kwant Controls",
+		"image": "/pages/sponsors/logos/kwant_controls.png",
+		"url": "https://www.kwantcontrols.com",
+		"isMain": false
+	},
+	{
+		"name": "HR Groep",
+		"image": "/pages/sponsors/logos/hr_groep.png",
+		"url": "https://www.hrgroep.nl",
+		"isMain": false
+	},
+	{
+		"name": "C&W Snijtechniek",
+		"image": "/pages/sponsors/logos/cw_snijtechniek.png",
+		"url": "http://www.snijtechniek.com",
+		"isMain": false
+	},
+	{
+		"name": "Ijntema BV",
+		"image": "/pages/sponsors/logos/ijntema_bv.png",
+		"url": "https://www.ijntema-bv.nl/",
+		"isMain": false
+	},
+	{
+		"name": "Ultimaker",
+		"image": "/pages/sponsors/logos/ultimaker.png",
+		"url": "https://ultimaker.com",
+		"isMain": false
+	},
+	{
+		"name": "Vos Systems",
+		"image": "/pages/sponsors/logos/vos_systems.png",
+		"url": "http://vossystems.nl",
+		"isMain": false
+	},
+	{
+		"name": "Region of Smart Factories",
+		"image": "/pages/sponsors/logos/rosf.png",
+		"url": "https://rosf.nl",
+		"isMain": false
+	},
+	{
+		"name": "Altium",
+		"image": "/pages/sponsors/logos/altium.png",
+		"url": "https://www.altium.com",
+		"isMain": false
+	},
+	{
+		"name": "The Thrifty Bot",
+		"image": "/pages/sponsors/logos/the-trifty-bot.png",
+		"url": "https://www.thethriftybot.com",
+		"isMain": false
+	},
+	{
+		"name": "GoBilda",
+		"image": "/pages/sponsors/logos/gobilda.svg",
+		"url": "https://www.gobilda.com/",
+		"isMain": false
+	}
+]
