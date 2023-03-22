@@ -5,8 +5,7 @@
 
 <h2>Visit</h2>
 
-<!-- FIXME: Upload higher quality image -->
-<img src="{base}/pages/visit/workshop.png" alt="Our workshop" />
+<img src="{base}/pages/visit/workshop.jpeg" alt="Our workshop" />
 
 <p>
 	Before late 2021 we used to build our robots in garages, kitchens, boats; you name it, nothing was
