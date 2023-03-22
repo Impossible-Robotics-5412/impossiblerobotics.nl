@@ -9,7 +9,7 @@
 </script>
 
 <svelte:head>
-	<meta name="theme-color" content="#d34b24" />
+	<meta name="theme-color" content="#E93F0E" />
 </svelte:head>
 
 <div class="layout">

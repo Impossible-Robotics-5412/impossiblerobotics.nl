@@ -1,8 +1,8 @@
 :root {
-	--c-background: black;
-	--c-primary: white;
+	--c-background: white;
+	--c-primary: black;
 	--c-secondary: gray;
-	--c-accent: #d34b24;
+	--c-accent: #e93f0e;
 	--c-accent-hover: #ba4120;
 
 	--f-sans-serif: 'Helvetica Neue', 'Helvetica', sans-serif;
