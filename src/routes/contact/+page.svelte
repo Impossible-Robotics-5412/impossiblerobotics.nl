@@ -1,4 +1,7 @@
 <script lang="ts">
+	import { base } from '$app/paths';
+	import Link from '$lib/link/Link.svelte';
+
 	interface ContactInformation {
 		phone: string;
 		email: string;
@@ -47,3 +50,51 @@
 {:else}
 	<button on:click={showContactInformation}>Click to show contact information</button>
 {/if}
+
+<h3 class="follow-us-online-title">Follow us online</h3>
+<div class="socials">
+	<Link openInNewTab href="https://www.instagram.com/impossiblerobotics">
+		<div class="social">
+			<img src="{base}/pages/contact/find-us-ig.svg" alt="Instagram" />
+			<span>@impossiblerobotics</span>
+		</div>
+	</Link>
+
+	<Link openInNewTab href="https://www.facebook.com/impossible.robotics">
+		<div class="social">
+			<img src="{base}/pages/contact/find-us-fb.svg" alt="Facebook" />
+			<span>@impossible.robotics</span>
+		</div>
+	</Link>
+
+	<Link openInNewTab href="https://twitter.com/team5412">
+		<div class="social">
+			<img src="{base}/pages/contact/find-us-tw.svg" alt="Twitter" />
+			<span>@team5412</span>
+		</div>
+	</Link>
+</div>
+
+<style>
+	.follow-us-online-title {
+		text-align: center;
+	}
+
+	.socials {
+		display: flex;
+		width: 100%;
+	}
+
+	.social {
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		gap: 1rem;
+	}
+
+	.social img {
+		width: 100%;
+		max-height: 2rem;
+	}
+</style>
