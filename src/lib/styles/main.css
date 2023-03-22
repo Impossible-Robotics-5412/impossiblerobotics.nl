@@ -23,7 +23,7 @@ body {
 
 button {
 	background: var(--c-accent);
-	color: var(--c-primary);
+	color: white;
 
 	border: none;
 	border-radius: 3px;
