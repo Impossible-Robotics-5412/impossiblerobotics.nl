@@ -4,7 +4,9 @@
 	import SluisfabriekMap from '$lib/map/SluisfabriekMap.svelte';
 </script>
 
-<!-- FIXME: Add title -->
+<svelte:head>
+	<title>Impossible Robotics: Visit</title>
+</svelte:head>
 
 <h2>Visit</h2>
 

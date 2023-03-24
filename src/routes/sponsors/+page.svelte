@@ -10,7 +10,9 @@
 	$: otherSponsors = sponsors.filter((s) => !s.isMain);
 </script>
 
-<!-- FIXME: Add title -->
+<svelte:head>
+	<title>Impossible Robotics: Sponsors</title>
+</svelte:head>
 
 <h2>Sponsors</h2>
 <p>

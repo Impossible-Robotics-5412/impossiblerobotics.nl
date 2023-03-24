@@ -22,7 +22,9 @@
 	}
 </script>
 
-<!-- FIXME: Add title -->
+<svelte:head>
+	<title>Impossible Robotics: Contact</title>
+</svelte:head>
 
 <h2>Contact</h2>
 
