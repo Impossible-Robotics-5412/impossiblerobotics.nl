@@ -10,5 +10,11 @@ export const GET = (async ({ url }) => {
 		);
 	});
 
-	return json(sortedPosts);
+	let posts = sortedPosts;
+
+	if (url.searchParams.has('amount')) {
+		posts = posts.slice(0, parseInt(url.searchParams.get('amount')!));
+	}
+
+	return json(posts);
 }) satisfies RequestHandler;
