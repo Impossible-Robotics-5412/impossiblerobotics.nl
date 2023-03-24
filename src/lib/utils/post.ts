@@ -10,16 +10,13 @@ export async function fetchMarkdownPosts(): Promise<Post[]> {
 				metadata: PostMetadata;
 			};
 
-			// Since we know for sure every post’s file path will
-			// begin with /src/routes and end with .md, we can
-			// safely use .slice(11, -3) to remove those characters
-			// the first eleven and last three
-			// and end up with the actual relative path.
-			const postPath = path.slice(11, -3);
+			const regex =
+				/^\/src\/routes\/blog\/(\d{4})-(\d{2})-(\d{2})-(.*)\.md$/;
+			const replacement = '/blog/$1/$2/$3/$4';
 
 			return {
 				meta: metadata,
-				path: postPath
+				path: path.replace(regex, replacement)
 			};
 		})
 	);

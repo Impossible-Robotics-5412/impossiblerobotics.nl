@@ -23,7 +23,10 @@
 				{#if post.meta.thumbnail}
 					<img src={post.meta.thumbnail} alt="Thumbnail" />
 				{/if}
-				<p>{post.meta.summary}</p>
+				<div class="vertical-content">
+					<p>{post.meta.summary}</p>
+					<a href={post.path}>Read more</a>
+				</div>
 			</div>
 		</section>
 	{/each}
@@ -36,6 +39,8 @@
 
 		margin-bottom: 1rem;
 		padding-bottom: 1rem;
+
+		width: 100%;
 	}
 
 	section:last-child {
@@ -68,5 +73,19 @@
 	.content {
 		display: flex;
 		gap: 1rem;
+
+		width: 100%;
+	}
+
+	.vertical-content {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+
+		width: 100%;
+	}
+
+	a {
+		text-align: right;
 	}
 </style>
