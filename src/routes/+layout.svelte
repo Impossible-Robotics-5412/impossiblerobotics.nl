@@ -33,7 +33,7 @@
 	a {
 		color: var(--c-primary);
 		text-decoration: none;
-		font-family: var(--f-sans-serif);
+		font-family: var(--f-headers);
 	}
 
 	.layout {

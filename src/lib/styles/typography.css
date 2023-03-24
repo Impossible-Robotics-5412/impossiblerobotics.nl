@@ -1,5 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+:root {
+	--f-sans-serif: 'Helvetica Neue', 'Helvetica', sans-serif;
+	--f-headers: 'Inter', sans-serif;
+}
+
 a {
 	color: var(--c-accent);
+	font-family: var(--f-rounded);
 }
 
 a:hover {
@@ -12,6 +20,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: var(--f-sans-serif);
+	font-family: var(--f-headers);
+
 	padding: 2rem 0;
 }

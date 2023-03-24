@@ -5,14 +5,11 @@
 	--c-accent: #e93f0e;
 	--c-accent-hover: #ba4120;
 
-	--f-sans-serif: 'Helvetica Neue', 'Helvetica', sans-serif;
-	--f-serif: Georgia, 'Times New Roman', serif;
-
 	--b-dashed: 2px dashed var(--c-accent);
 }
 
 * {
-	font-family: var(--f-serif);
+	font-family: var(--f-sans-serif);
 
 	padding: 0;
 	margin: 0;
