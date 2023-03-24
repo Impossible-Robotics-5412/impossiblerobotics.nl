@@ -4,21 +4,27 @@
 </script>
 
 <div class="socials">
-	<Link openInNewTab href="https://www.instagram.com/impossiblerobotics">
+	<Link
+		noStyle
+		openInNewTab
+		href="https://www.instagram.com/impossiblerobotics">
 		<div class="social">
 			<img src="{base}/pages/contact/find-us-ig.svg" alt="Instagram" />
 			<span>@impossiblerobotics</span>
 		</div>
 	</Link>
 
-	<Link openInNewTab href="https://www.facebook.com/impossible.robotics">
+	<Link
+		noStyle
+		openInNewTab
+		href="https://www.facebook.com/impossible.robotics">
 		<div class="social">
 			<img src="{base}/pages/contact/find-us-fb.svg" alt="Facebook" />
 			<span>@impossible.robotics</span>
 		</div>
 	</Link>
 
-	<Link openInNewTab href="https://twitter.com/team5412">
+	<Link noStyle openInNewTab href="https://twitter.com/team5412">
 		<div class="social">
 			<img src="{base}/pages/contact/find-us-tw.svg" alt="Twitter" />
 			<span>@team5412</span>
