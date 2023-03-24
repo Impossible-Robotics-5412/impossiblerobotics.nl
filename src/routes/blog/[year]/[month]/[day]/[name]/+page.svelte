@@ -1,7 +1,7 @@
 <script lang="ts">
 	import '$lib/styles/post.css';
 	import type { PostMetadata } from '$lib/types/post';
-	import { onMount, SvelteComponentTyped } from 'svelte';
+	import { onMount } from 'svelte';
 
 	export let data: PostMetadata & {
 		content: any;
@@ -29,7 +29,7 @@
 	<title>Blog: {data.title}</title>
 </svelte:head>
 
-<article>
+<article class="blog-post">
 	<div class="header">
 		{#if data.title}
 			<h2>{data.title}</h2>
@@ -40,7 +40,7 @@
 		{/if}
 	</div>
 
-	<div bind:this={contentContainer}>
+	<div class="content" bind:this={contentContainer}>
 		<svelte:component this={data.content} />
 	</div>
 

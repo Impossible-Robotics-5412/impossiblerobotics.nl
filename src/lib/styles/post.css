@@ -1,7 +1,7 @@
-img {
+.blog-post .content img {
 	width: 100%;
 }
 
-p {
+.blog-post .content p {
 	margin-bottom: 1rem;
 }

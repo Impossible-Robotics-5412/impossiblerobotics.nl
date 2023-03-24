@@ -33,8 +33,6 @@
 	feel free to contact us via mail or phone.
 </p>
 
-<br />
-
 <h3>Henk van der Wal (Coach)</h3>
 {#if contactInformationShown}
 	<div>
@@ -53,8 +51,9 @@
 		</span>
 	</div>
 {:else}
-	<button on:click={showContactInformation}
-		>Click to show contact information</button>
+	<button on:click={showContactInformation}>
+		Click to show contact information
+	</button>
 {/if}
 
 <h3 class="follow-us-online-title">Follow us online</h3>
