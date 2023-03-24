@@ -1,4 +1,4 @@
-# impossible-robotics.github.io
+# impossiblerobotics.nl
 
 This is the Svelte project for the official Impossible Robotics website.
 

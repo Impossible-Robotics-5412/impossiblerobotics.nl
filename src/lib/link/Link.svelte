@@ -12,8 +12,7 @@
 <a
 	href={path}
 	target={openInNewTab ? '_blank' : ''}
-	rel={openInNewTab ? 'noopener noreferrer' : ''}
->
+	rel={openInNewTab ? 'noopener noreferrer' : ''}>
 	<slot />
 </a>
 

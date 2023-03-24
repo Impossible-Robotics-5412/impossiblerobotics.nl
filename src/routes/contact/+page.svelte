@@ -23,11 +23,13 @@
 	}
 </script>
 
+<!-- FIXME: Add title -->
+
 <h2>Contact</h2>
 
 <p>
-	If you're interested in joining our team or have another question for us, feel free to contact us
-	via mail or phone.
+	If you're interested in joining our team or have another question for us, feel
+	free to contact us via mail or phone.
 </p>
 
 <br />
@@ -37,18 +39,21 @@
 	<div>
 		<span>
 			<b>Phone</b>
-			<a href="tel:{getContactInformation().phone}">{getContactInformation().phone}</a>
+			<a href="tel:{getContactInformation().phone}"
+				>{getContactInformation().phone}</a>
 		</span>
 	</div>
 
 	<div>
 		<span>
 			<b>E-Mail</b>
-			<a href="mailto:{getContactInformation().email}">{getContactInformation().email}</a>
+			<a href="mailto:{getContactInformation().email}"
+				>{getContactInformation().email}</a>
 		</span>
 	</div>
 {:else}
-	<button on:click={showContactInformation}>Click to show contact information</button>
+	<button on:click={showContactInformation}
+		>Click to show contact information</button>
 {/if}
 
 <h3 class="follow-us-online-title">Follow us online</h3>

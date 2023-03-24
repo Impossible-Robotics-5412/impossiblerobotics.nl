@@ -1,13 +1,16 @@
 .DS_Store
 node_modules
-/docs
+/.vercel
+/.husky
 /.svelte-kit
 /package
 .env
 .env.*
 !.env.example
+.prettierignore
 
 # Ignore files for PNPM, NPM and YARN
+
 pnpm-lock.yaml
 package-lock.json
 yarn.lock
