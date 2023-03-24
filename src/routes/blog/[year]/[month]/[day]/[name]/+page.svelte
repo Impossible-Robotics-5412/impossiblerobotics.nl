@@ -1,13 +1,11 @@
 <script lang="ts">
 	import '$lib/styles/post.css';
-	import { onMount } from 'svelte';
+	import type { PostMetadata } from '$lib/types/post';
+	import { onMount, SvelteComponentTyped } from 'svelte';
 
-	export let data: {
-		title: string;
-		date: Date;
-		summary: string;
-		author: string;
+	export let data: PostMetadata & {
 		content: any;
+		date: Date;
 	};
 
 	let contentContainer: HTMLElement | undefined;
@@ -31,8 +29,13 @@
 
 <article>
 	<div class="header">
-		<h2>{data.title}</h2>
-		<span class="date">{data.date.toDateString()}</span>
+		{#if data.title}
+			<h2>{data.title}</h2>
+		{/if}
+
+		{#if data.date}
+			<span class="date">{data.date.toDateString()}</span>
+		{/if}
 	</div>
 
 	<div bind:this={contentContainer}>

@@ -24,7 +24,7 @@
 
 <style>
 	header {
-		border-bottom: 2px dashed var(--c-accent);
+		border-bottom: var(--b-dashed);
 	}
 
 	h1 {
