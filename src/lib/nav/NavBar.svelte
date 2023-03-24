@@ -7,9 +7,9 @@
 		<NavBarItem label="home" href="/" />
 		<NavBarItem label="blog" href="/blog" />
 		<NavBarItem label="about" href="/about" />
-		<NavBarItem label="visit" href="/visit" />
 		<NavBarItem label="sponsors" href="/sponsors" />
 		<NavBarItem label="outreach" href="/outreach" />
+		<NavBarItem label="visit" href="/visit" />
 		<NavBarItem label="join" href="/join" />
 		<NavBarItem label="contact" href="/contact" />
 	</ul>
