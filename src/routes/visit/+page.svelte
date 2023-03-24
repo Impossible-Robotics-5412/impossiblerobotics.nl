@@ -10,20 +10,24 @@
 
 <h2>Visit</h2>
 
-<div class="map">
-	<SluisfabriekMap />
+<div class="standard-page">
+	<div class="map">
+		<SluisfabriekMap />
+	</div>
+
+	<p>
+		Before late 2021 we used to build our robots in garages, kitchens,
+		boats; you name it, nothing was weird enough for us. Even though this
+		was quite the adventure, it wasn't the most convenient way to build a
+		robot. Since then we've settled into our own little workshop: a
+		seacontainer in
+		<Link href="https://sluisfabriek.nl" openInNewTab>De Sluisfabriek</Link
+		>,
+		<i>Tussendiepen 6, 9206AD Drachten</i>.
+	</p>
+
+	<img src="{base}/pages/visit/workshop.jpeg" alt="Our workshop" />
 </div>
-
-<p>
-	Before late 2021 we used to build our robots in garages, kitchens, boats;
-	you name it, nothing was weird enough for us. Even though this was quite the
-	adventure, it wasn't the most convenient way to build a robot. Since then
-	we've settled into our own little workshop: a seacontainer in
-	<Link href="https://sluisfabriek.nl" openInNewTab>De Sluisfabriek</Link>,
-	<i>Tussendiepen 6, 9206AD Drachten</i>.
-</p>
-
-<img src="{base}/pages/visit/workshop.jpeg" alt="Our workshop" />
 
 <style>
 	.map {
@@ -35,9 +39,5 @@
 		display: flex;
 		justify-content: center;
 		align-items: center;
-	}
-
-	p {
-		margin: 1rem 0;
 	}
 </style>
