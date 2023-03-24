@@ -4,8 +4,6 @@
 	--c-secondary: gray;
 	--c-accent: #e93f0e;
 	--c-accent-hover: #ba4120;
-
-	--b-dashed: 2px dashed var(--c-accent);
 }
 
 * {

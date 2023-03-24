@@ -23,7 +23,7 @@
 
 <style>
 	header {
-		border-bottom: var(--b-dashed);
+		border-bottom: 2px solid var(--c-accent);
 	}
 
 	h1 {

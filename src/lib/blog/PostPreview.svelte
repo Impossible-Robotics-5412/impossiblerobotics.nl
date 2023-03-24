@@ -23,8 +23,7 @@
 
 <style>
 	section {
-		border-bottom: var(--b-dashed);
-		border-bottom-width: 1px;
+		border-bottom: 1px dotted var(--c-accent);
 
 		margin-bottom: 1rem;
 		padding-bottom: 1rem;
