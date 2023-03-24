@@ -14,7 +14,7 @@
 <li class:active><Link {href}>{label}</Link></li>
 
 <style>
-	:not(.active) {
-		opacity: 0.6;
+	.active {
+		font-weight: bold;
 	}
 </style>
