@@ -56,6 +56,12 @@
 	</button>
 {/if}
 
-<h3>Follow us online</h3>
+<h2 class="find-us-online">Find us online</h2>
 
 <Socials />
+
+<style>
+	.find-us-online {
+		text-align: center;
+	}
+</style>

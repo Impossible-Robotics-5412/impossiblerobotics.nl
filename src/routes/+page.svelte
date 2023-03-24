@@ -19,6 +19,12 @@
 </section>
 
 <section>
-	<h2>Follow us online</h2>
+	<h2 class="follow-us-online">Follow us online</h2>
 	<Socials />
 </section>
+
+<style>
+	.follow-us-online {
+		text-align: center;
+	}
+</style>
