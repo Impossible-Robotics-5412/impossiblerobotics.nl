@@ -3,10 +3,8 @@
 
 	export let href: string;
 	export let openInNewTab = false;
-	// FIXME: Is extern the right name for this?
-	export let extern = false;
 
-	const path = `${extern ? '' : base}${href}`;
+	const path = `${base}${href}`;
 </script>
 
 <a
