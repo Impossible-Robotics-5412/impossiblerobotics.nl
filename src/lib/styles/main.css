@@ -48,7 +48,8 @@ img {
 	width: 100%;
 }
 
-.standard-page h2 {
+.standard-page h2,
+.standard-page h3 {
 	margin-bottom: 0;
 }
 

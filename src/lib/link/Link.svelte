@@ -3,8 +3,9 @@
 
 	export let href: string;
 	export let openInNewTab = false;
+	export let file = false;
 
-	const path = `${base}${href}`;
+	const path = `${file ? '' : base}${href}`;
 </script>
 
 <a
