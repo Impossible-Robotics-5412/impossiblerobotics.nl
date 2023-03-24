@@ -4,7 +4,8 @@
 
 <nav>
 	<ul>
-		<NavBarItem label="blog" href="/" />
+		<NavBarItem label="home" href="/" />
+		<NavBarItem label="blog" href="/blog" />
 		<NavBarItem label="about us" href="/about" />
 		<NavBarItem label="visit" href="/visit" />
 		<NavBarItem label="sponsors" href="/sponsors" />

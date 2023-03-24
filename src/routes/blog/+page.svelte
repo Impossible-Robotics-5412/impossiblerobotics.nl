@@ -2,10 +2,10 @@
 </script>
 
 <svelte:head>
-	<title>Impossible Robotics: Home</title>
+	<title>Impossible Robotics: Blog</title>
 </svelte:head>
 
-<h2>Home</h2>
+<h2>Blog</h2>
 
 <!-- FIXME: Create page. -->
 <h3>This page is under construction!</h3>
