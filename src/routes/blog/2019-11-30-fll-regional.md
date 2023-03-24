@@ -2,8 +2,8 @@
 title: 'FIRST Lego League Regional'
 author: 'Stefan Sijbesma'
 summary:
-  >- # This is used in the description of google searches. Use as many keywords as possible.
-  Today we showed our robots to the contestants and visitors of the FLL Regional in Leeuwarden. Everybody was able to try our robots and we told them about FRC!
+    >- # This is used in the description of google searches. Use as many keywords as possible.
+    Today we showed our robots to the contestants and visitors of the FLL Regional in Leeuwarden. Everybody was able to try our robots and we told them about FRC!
 thumbnail: '/pages/blog/2019/11/30/fll-regional/photo1.jpeg'
 date: 30/11/2019
 ---

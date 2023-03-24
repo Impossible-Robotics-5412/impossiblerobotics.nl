@@ -15,9 +15,9 @@
 <h2>Sponsors</h2>
 <p>
 	We're extremely thankful to our sponsors and we could not have reached our
-	goals without them! Our sponsors help us from financial support all the way to
-	cutting parts for the robot, from letting us use their 3D printers to allowing
-	us to build in their workshop and much more!
+	goals without them! Our sponsors help us from financial support all the way
+	to cutting parts for the robot, from letting us use their 3D printers to
+	allowing us to build in their workshop and much more!
 </p>
 
 <section class="main-sponsors">

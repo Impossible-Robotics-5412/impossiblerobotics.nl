@@ -2,8 +2,8 @@
 title: 'Back In Action'
 author: 'Pieter Venderbos'
 summary:
-  >- # This is used in the description of google searches. Use as many keywords as possible.
-  We are back in business!
+    >- # This is used in the description of google searches. Use as many keywords as possible.
+    We are back in business!
 thumbnail: '/pages/blog/2021/08/14/back-in-action/meeting.jpeg'
 date: 14/08/2020
 ---

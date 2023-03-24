@@ -2,8 +2,8 @@
 title: 'FRC Kick-Off'
 author: 'Pieter Venderbos'
 summary:
-  >- # This is used in the description of google searches. Use as many keywords as possible.
-  On this day there was the FRC kick-off! The new FRC game called Infinite Recharge was revealed!
+    >- # This is used in the description of google searches. Use as many keywords as possible.
+    On this day there was the FRC kick-off! The new FRC game called Infinite Recharge was revealed!
 thumbnail: '/pages/blog/2020/01/04/frc-kickoff/thumbnail.jpg'
 date: 04/01/2020
 ---

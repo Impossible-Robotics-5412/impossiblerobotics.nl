@@ -2,8 +2,8 @@
 title: 'Getting to know technology: Techniek Tastbaar'
 author: 'Allison Han van der Spoel'
 summary:
-  >- # This is used in the description of google searches. Use as many keywords as possible.
-  Techniek Tastbaar is an event for children where they can have a look at technology in the grown-up world. As you might have guessed, Impossible Robotics was present too!
+    >- # This is used in the description of google searches. Use as many keywords as possible.
+    Techniek Tastbaar is an event for children where they can have a look at technology in the grown-up world. As you might have guessed, Impossible Robotics was present too!
 thumbnail: 'https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/73226363_432637337423804_4578703429662650893_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=108&oh=d6ff5a18c60ee5ba934c760ec6870f6d&oe=5E82B0E9'
 date: 28/11/2019
 ---

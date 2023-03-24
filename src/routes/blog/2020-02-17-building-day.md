@@ -2,8 +2,8 @@
 title: 'Building day!'
 author: 'Aron Hoekstra and Stefan Sijbesma'
 summary:
-  >- # This is used in the description of google searches. Use as many keywords as possible.
-  We built our robot at the building space of our main sponsor Victron Energy in Groningen!
+    >- # This is used in the description of google searches. Use as many keywords as possible.
+    We built our robot at the building space of our main sponsor Victron Energy in Groningen!
 thumbnail: '/pages/blog/2020/02/17/building-day/working.JPG'
 date: 17/02/2020
 ---

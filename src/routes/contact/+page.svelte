@@ -28,8 +28,8 @@
 <h2>Contact</h2>
 
 <p>
-	If you're interested in joining our team or have another question for us, feel
-	free to contact us via mail or phone.
+	If you're interested in joining our team or have another question for us,
+	feel free to contact us via mail or phone.
 </p>
 
 <br />

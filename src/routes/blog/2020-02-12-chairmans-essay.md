@@ -2,8 +2,8 @@
 title: 'Chairmans Essay'
 author: 'Pieter Venderbos'
 summary:
-  >- # This is used in the description of google searches. Use as many keywords as possible.
-  Read here about one of the most important awards in FRC and how team 5412 is working on this!
+    >- # This is used in the description of google searches. Use as many keywords as possible.
+    Read here about one of the most important awards in FRC and how team 5412 is working on this!
 date: 12/02/2020
 ---
 

@@ -2,8 +2,8 @@
 title: 'FIRST Lego League Benelux Final'
 author: 'Sytse de Boer and Pieter Venderbos'
 summary:
-  >- # This is used in the description of google searches. Use as many keywords as possible.
-  Today we were present at the FLL benelux final! Here the kids could play with our robot and some members of our team also volunteered.
+    >- # This is used in the description of google searches. Use as many keywords as possible.
+    Today we were present at the FLL benelux final! Here the kids could play with our robot and some members of our team also volunteered.
 thumbnail: '/pages/blog/2020/01/25/benelux-finale/thumbnail.jpg'
 date: 25/01/2020
 ---
