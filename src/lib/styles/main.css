@@ -48,13 +48,17 @@ img {
 	width: 100%;
 }
 
+.standard-page h1,
 .standard-page h2,
-.standard-page h3 {
+.standard-page h3,
+.standard-page h4,
+.standard-page h5,
+.standard-page h6 {
 	margin-bottom: 0;
 }
 
-.standard-page > * {
-	margin-bottom: 1rem;
+.standard-page > *:not(h1, h2, h3, h4, h5, h6) {
+	margin: 0.5rem 0;
 }
 
 .standard-page > *:last-child {
