@@ -91,6 +91,12 @@
 		width: 75%;
 	}
 
+	@media only screen and (max-width: 810px) {
+		.main-sponsors img {
+			width: 100%;
+		}
+	}
+
 	.main-sponsors img,
 	.other-sponsors img {
 		border-radius: 0;
@@ -101,5 +107,17 @@
 		grid-template-columns: repeat(4, 1fr);
 		align-items: center;
 		gap: 2rem 1rem;
+	}
+
+	@media only screen and (max-width: 750px) {
+		.other-sponsors .content {
+			grid-template-columns: repeat(3, 1fr);
+		}
+	}
+
+	@media only screen and (max-width: 450px) {
+		.other-sponsors .content {
+			grid-template-columns: repeat(2, 1fr);
+		}
 	}
 </style>
