@@ -43,4 +43,11 @@
 	.social img {
 		max-height: 2rem;
 	}
+
+	@media only screen and (max-width: 810px) {
+		.socials {
+			flex-direction: column;
+			gap: 2rem;
+		}
+	}
 </style>
