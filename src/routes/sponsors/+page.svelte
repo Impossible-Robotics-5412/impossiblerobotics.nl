@@ -82,7 +82,7 @@
 
 	<p>
 		If you are interested in sponsoring us or want more information, feel
-		free to <Link openInNewTab href="/contact">contact us</Link>!
+		free to <Link href="/contact">contact us</Link>!
 	</p>
 </div>
 

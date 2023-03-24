@@ -37,7 +37,7 @@
 	}
 
 	.layout {
-		max-width: 34rem;
+		max-width: 48rem;
 		padding: 1rem;
 		margin: auto;
 	}

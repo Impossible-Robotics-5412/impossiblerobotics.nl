@@ -10,6 +10,7 @@
 		<NavBarItem label="visit" href="/visit" />
 		<NavBarItem label="sponsors" href="/sponsors" />
 		<NavBarItem label="outreach" href="/outreach" />
+		<NavBarItem label="join" href="/join" />
 		<NavBarItem label="contact" href="/contact" />
 	</ul>
 </nav>

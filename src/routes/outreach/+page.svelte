@@ -61,7 +61,7 @@
 
 	<p>
 		If you are interested in having us at an event, feel free to
-		<Link openInNewTab href="/contact">contact</Link> us. We are looking forward
-		to hearing from you!
+		<Link href="/contact">contact</Link> us. We are looking forward to hearing
+		from you!
 	</p>
 </div>
