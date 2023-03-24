@@ -6,7 +6,7 @@
 	<ul>
 		<NavBarItem label="home" href="/" />
 		<NavBarItem label="blog" href="/blog" />
-		<NavBarItem label="about us" href="/about" />
+		<NavBarItem label="about" href="/about" />
 		<NavBarItem label="visit" href="/visit" />
 		<NavBarItem label="sponsors" href="/sponsors" />
 		<NavBarItem label="outreach" href="/outreach" />

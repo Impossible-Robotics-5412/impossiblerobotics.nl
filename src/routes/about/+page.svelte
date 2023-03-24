@@ -4,11 +4,11 @@
 </script>
 
 <svelte:head>
-	<title>About Us</title>
+	<title>About</title>
 </svelte:head>
 
 <div class="standard-page">
-	<h2>About Us</h2>
+	<h2>About</h2>
 
 	<p>
 		Impossible Robotics is a non-profit organization located in the north of
