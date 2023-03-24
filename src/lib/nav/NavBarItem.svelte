@@ -5,8 +5,10 @@
 	export let href: string;
 	export let label: string;
 
-	// FIXME: This should use just the first segment of the path.
-	$: active = $page.route.id === href;
+	$: active =
+		href !== '/'
+			? $page.url.pathname.match(href)
+			: href === $page.url.pathname;
 </script>
 
 <li class:active><Link {href}>{label}</Link></li>

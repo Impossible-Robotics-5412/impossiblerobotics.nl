@@ -14,7 +14,6 @@
 
 <div class="layout">
 	<header>
-		<!-- FIXME: This should be a <Link> component but styling it to not look like a link isn't easily possible that way. -->
 		<h1><a href="{base}/">Impossible Robotics</a></h1>
 		<NavBar />
 	</header>
