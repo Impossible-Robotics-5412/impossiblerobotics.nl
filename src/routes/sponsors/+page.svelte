@@ -53,8 +53,4 @@
 		align-items: center;
 		gap: 2rem 1rem;
 	}
-
-	.other-sponsors .content img {
-		width: 100%;
-	}
 </style>

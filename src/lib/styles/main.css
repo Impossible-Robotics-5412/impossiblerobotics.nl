@@ -45,4 +45,17 @@ button:hover {
 
 img {
 	border-radius: 6px;
+	width: 100%;
+}
+
+.standard-page h2 {
+	margin-bottom: 0;
+}
+
+.standard-page > * {
+	margin-bottom: 1rem;
+}
+
+.standard-page > *:last-child {
+	margin-bottom: 0;
 }

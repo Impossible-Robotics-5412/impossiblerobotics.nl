@@ -26,10 +26,6 @@
 <img src="{base}/pages/visit/workshop.jpeg" alt="Our workshop" />
 
 <style>
-	img {
-		width: 100%;
-	}
-
 	.map {
 		width: 100%;
 		height: 20rem;

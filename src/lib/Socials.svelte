@@ -41,7 +41,6 @@
 	}
 
 	.social img {
-		width: 100%;
 		max-height: 2rem;
 	}
 </style>
