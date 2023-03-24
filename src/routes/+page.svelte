@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>Impossible Robotics: Home</title>
+	<title>Home</title>
 </svelte:head>
 
 <section>

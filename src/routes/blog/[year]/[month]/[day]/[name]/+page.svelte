@@ -26,7 +26,7 @@
 		<meta name="description" content={data.summary} />
 	{/if}
 
-	<title>Impossible Robotics: {data.title}</title>
+	<title>Blog: {data.title}</title>
 </svelte:head>
 
 <article>

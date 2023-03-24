@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>Impossible Robotics: About Us</title>
+	<title>About Us</title>
 </svelte:head>
 
 <h2>About Us</h2>

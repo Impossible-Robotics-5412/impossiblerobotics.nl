@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-	<title>Impossible Robotics: Blog</title>
+	<title>Blog</title>
 </svelte:head>
 
 <h2>Blog</h2>

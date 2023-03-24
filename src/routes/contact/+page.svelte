@@ -23,7 +23,7 @@
 </script>
 
 <svelte:head>
-	<title>Impossible Robotics: Contact</title>
+	<title>Contact</title>
 </svelte:head>
 
 <h2>Contact</h2>

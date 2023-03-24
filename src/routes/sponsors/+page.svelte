@@ -11,7 +11,7 @@
 </script>
 
 <svelte:head>
-	<title>Impossible Robotics: Sponsors</title>
+	<title>Sponsors</title>
 </svelte:head>
 
 <h2>Sponsors</h2>
