@@ -52,10 +52,15 @@ img {
 	margin-bottom: 0;
 }
 
+.standard-page p img {
+	margin: 0.5rem 0;
+}
+
 .standard-page > *:not(h1, h2, h3, h4, h5, h6) {
 	margin: 0.5rem 0;
 }
 
-.standard-page > *:last-child {
+.standard-page > *:last-child,
+.standard-page p:last-child img {
 	margin-bottom: 0;
 }

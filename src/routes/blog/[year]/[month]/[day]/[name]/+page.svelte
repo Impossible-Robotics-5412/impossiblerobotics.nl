@@ -1,5 +1,4 @@
 <script lang="ts">
-	import '$lib/styles/post.css';
 	import type { PostMetadata } from '$lib/types/post';
 	import { onMount } from 'svelte';
 
@@ -40,7 +39,7 @@
 		{/if}
 	</div>
 
-	<div class="content" bind:this={contentContainer}>
+	<div class="standard-page" bind:this={contentContainer}>
 		<svelte:component this={data.content} />
 	</div>
 
