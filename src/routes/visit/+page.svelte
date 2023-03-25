@@ -27,7 +27,7 @@
 		<i>Tussendiepen 6, 9206AD Drachten</i>.
 	</p>
 
-	<img src="{base}/pages/visit/workshop.jpeg" alt="Our workshop" />
+	<img src="{base}/pages/visit/workshop.jpg" alt="Our workshop" />
 </StandardPage>
 
 <style>
