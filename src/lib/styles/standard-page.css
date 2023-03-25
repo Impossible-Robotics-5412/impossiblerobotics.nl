@@ -1,0 +1,44 @@
+.standard-page h1,
+.standard-page h2,
+.standard-page h3,
+.standard-page h4,
+.standard-page h5,
+.standard-page h6 {
+	margin-bottom: 0;
+}
+
+.standard-page > *:not(h1, h2, h3, h4, h5, h6) {
+	margin: 0.5rem 0;
+}
+
+.standard-page h1 + *,
+.standard-page h2 + *,
+.standard-page h3 + *,
+.standard-page h4 + *,
+.standard-page h5 + *,
+.standard-page h6 + * {
+	margin-top: 0;
+}
+
+.standard-page * + h1,
+.standard-page * + h2,
+.standard-page * + h3,
+.standard-page * + h4,
+.standard-page * + h5,
+.standard-page * + h6 {
+	margin-top: -0.5rem;
+}
+
+.standard-page p img {
+	margin: 0.5rem 0;
+}
+
+.standard-page > *:last-child,
+.standard-page p:last-child img {
+	margin-bottom: 0;
+}
+
+.standard-page > *:first-child,
+.standard-page p:first-child img {
+	margin-top: 0;
+}

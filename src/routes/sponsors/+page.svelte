@@ -2,6 +2,7 @@
 	import { base } from '$app/paths';
 	import Link from '$lib/link/Link.svelte';
 	import type { Sponsor } from '$lib/sponsors/types';
+	import StandardPage from '$lib/StandardPage.svelte';
 
 	export let data: { sponsors: Sponsor[] };
 
@@ -15,7 +16,7 @@
 	<title>Sponsors</title>
 </svelte:head>
 
-<div class="standard-page">
+<StandardPage>
 	<h2>Sponsors</h2>
 	<p>
 		We're extremely thankful to our sponsors and we could not have reached
@@ -84,7 +85,7 @@
 		If you are interested in sponsoring us or want more information, feel
 		free to <Link href="/contact">contact us</Link>!
 	</p>
-</div>
+</StandardPage>
 
 <style>
 	.main-sponsors img {

@@ -1,13 +1,14 @@
 <script lang="ts">
 	import { base } from '$app/paths';
 	import Link from '$lib/link/Link.svelte';
+	import StandardPage from '$lib/StandardPage.svelte';
 </script>
 
 <svelte:head>
 	<title>About</title>
 </svelte:head>
 
-<div class="standard-page">
+<StandardPage>
 	<h2>About</h2>
 
 	<p>
@@ -70,4 +71,4 @@
 		skills. We want to welcome all creativity and challenge the impossible
 		together.
 	</p>
-</div>
+</StandardPage>

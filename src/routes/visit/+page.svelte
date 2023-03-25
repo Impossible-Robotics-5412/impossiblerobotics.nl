@@ -2,6 +2,7 @@
 	import { base } from '$app/paths';
 	import Link from '$lib/link/Link.svelte';
 	import SluisfabriekMap from '$lib/map/SluisfabriekMap.svelte';
+	import StandardPage from '$lib/StandardPage.svelte';
 </script>
 
 <svelte:head>
@@ -10,7 +11,7 @@
 
 <h2>Visit</h2>
 
-<div class="standard-page">
+<StandardPage>
 	<div class="map">
 		<SluisfabriekMap />
 	</div>
@@ -27,7 +28,7 @@
 	</p>
 
 	<img src="{base}/pages/visit/workshop.jpeg" alt="Our workshop" />
-</div>
+</StandardPage>
 
 <style>
 	.map {

@@ -1,4 +1,5 @@
 <script lang="ts">
+	import StandardPage from '$lib/StandardPage.svelte';
 	import type { PostMetadata } from '$lib/types/post';
 	import { onMount } from 'svelte';
 
@@ -39,8 +40,10 @@
 		{/if}
 	</div>
 
-	<div class="standard-page" bind:this={contentContainer}>
-		<svelte:component this={data.content} />
+	<div bind:this={contentContainer}>
+		<StandardPage>
+			<svelte:component this={data.content} />
+		</StandardPage>
 	</div>
 
 	<div class="footer">

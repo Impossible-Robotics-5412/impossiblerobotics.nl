@@ -1,12 +1,13 @@
 <script lang="ts">
 	import Link from '$lib/link/Link.svelte';
+	import StandardPage from '$lib/StandardPage.svelte';
 </script>
 
 <svelte:head>
 	<title>Outreach</title>
 </svelte:head>
 
-<div class="standard-page">
+<StandardPage>
 	<h2>Outreach</h2>
 
 	<p>
@@ -64,4 +65,4 @@
 		<Link href="/contact">contact</Link> us. We are looking forward to hearing
 		from you!
 	</p>
-</div>
+</StandardPage>
