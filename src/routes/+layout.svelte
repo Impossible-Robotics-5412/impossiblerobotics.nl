@@ -10,6 +10,8 @@
 
 <svelte:head>
 	<meta name="theme-color" content="#E93F0E" />
+
+	<!-- FIXME: Upload custom favicon -->
 </svelte:head>
 
 <div class="layout">
