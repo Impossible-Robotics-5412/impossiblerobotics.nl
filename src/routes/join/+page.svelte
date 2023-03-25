@@ -18,7 +18,7 @@
 
 	<h3>What we have to offer for members</h3>
 
-	<img src="/pages/join/travelling.jpg" alt="Our team with their suitcases" />
+	<img src="/pages/join/orlando.jpg" alt="Last match at Orlando regional" />
 
 	<p>
 		In our team we, among our other goals, try to create a learning platform
